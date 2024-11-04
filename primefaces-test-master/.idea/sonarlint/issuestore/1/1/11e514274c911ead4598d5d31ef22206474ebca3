@@ -1,0 +1,24 @@
+
+\
+java:S1128"?Remove this unused import 'org.primefaces.cache.CacheProvider'.(¥¢£Þ8–áœâ®2
+^
+java:S1128"ARemove this unused import 'org.primefaces.component.tabview.Tab'.(‰˜¹È8–áœâ®2
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8–áœâ®2
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8–áœâ®2
+T
+java:S1128
+"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8–áœâ®2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8–áœâ®2
+[
+java:S1128">Remove this unused import 'jakarta.enterprise.inject.spi.CDI'.(ã­¯¢8–áœâ®2
+e
+java:S1128"CRemove this unused import 'jakarta.faces.application.ProjectStage'.(ÔÇñ³ûÿÿÿÿ8—áœâ®2
+b
+java:S1128"@Remove this unused import 'jakarta.faces.component.UIComponent'.(ˆÀø’ÿÿÿÿÿ8—áœâ®2
+^
+java:S1128"<Remove this unused import 'jakarta.faces.component.UIPanel'.(Ø¥°ñøÿÿÿÿ8—áœâ®2
+\
+java:S1128"?Remove this unused import 'jakarta.faces.context.FacesContext'.(€óµŠ8—áœâ®2
